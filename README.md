@@ -10,11 +10,15 @@ nvPress是一个基于nodejs实现的内容管理系统。
 
 # 安装使用、二次开发
 
-详见WIKI：https://github.com/nvPress/nvPress/wiki/Docker%E7%89%88%E5%AE%89%E8%A3%85
+详见Github Wiki：https://github.com/nvPress/nvPress/wiki/Docker%E7%89%88%E5%AE%89%E8%A3%85
 
 # 许可说明
 
 nvPress是免费、开放、自主部署的项目，任何人都可以无限制的使用它。但**请不要抄袭它的任何界面！**
+
+# 群组讨论
+
+QQ群：611246443
 
 # 本项目说明
 
