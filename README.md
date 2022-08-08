@@ -8,9 +8,13 @@ nvPress是一个基于nodejs实现的内容管理系统。
 
 可通过主题、插件来实现功能的二次扩展。
 
-# 安装使用、二次开发
+# 安装使用
 
 详见Github Wiki：https://github.com/nvPress/nvPress/wiki/Docker%E7%89%88%E5%AE%89%E8%A3%85
+
+# 二次开发
+
+详见文档：https://docs.panda-studio.cn:8282/?shelf=nvPress
 
 # 许可说明
 
