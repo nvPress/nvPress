@@ -10,7 +10,7 @@ nvPress是一个基于nodejs实现的内容管理系统。
 
 # 安装使用
 
-详见Github Wiki：https://github.com/nvPress/nvPress/wiki/Docker%E7%89%88%E5%AE%89%E8%A3%85
+详见文档：https://docs.panda-studio.cn:8282/docs/post-19
 
 # 二次开发
 
