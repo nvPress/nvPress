@@ -52,3 +52,16 @@ curl -fsSL http://dsm.panda-studio.cn:8181/shell/nvpress-update.sh | bash -s
 ```
 
 其他关于一键安装、一键升级、使用HTTPS（SSL证书）等问题，请加上面的QQ群讨论。
+
+# Demo
+
+后台Demo：http://dsm.panda-studio.cn:6090
+
+截图示例：
+
+![nvp1](https://github.com/nvPress/nvPress/assets/26618275/cf500eba-0522-4db5-8e56-1f553bbec4c5)
+
+![nvp2](https://github.com/nvPress/nvPress/assets/26618275/a222cc3b-4884-42a0-9ecb-1a64e16d9d65)
+
+![nvp3](https://github.com/nvPress/nvPress/assets/26618275/3abec987-ec9b-4c33-8423-3d188f460d70)
+
