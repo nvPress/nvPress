@@ -55,6 +55,8 @@ curl -fsSL http://dsm.panda-studio.cn:8181/shell/nvpress-update.sh | bash -s
 
 # Demo
 
+开发者个人博客：https://blog.panda-studio.cn
+
 后台Demo：http://dsm.panda-studio.cn:6090
 
 截图示例：
