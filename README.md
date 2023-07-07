@@ -28,31 +28,6 @@ nvPress是一个基于nodejs实现的内容管理系统。
 
 nvPress是免费、开放、自主部署的项目，任何人都可以无限制的使用它。但**请不要抄袭它的任何界面！**
 
-# 萌新一键安装
-
-> 注意事项：
->  1. 一键部署方案适用于全新安装，不能在已有宝塔、WordPress、Nginx等现有环境中操作
-> 2. 安装过程可能会有10分钟左右，请耐心等待，不要看到命令行没有动静就进行其他操作
-
-### 萌新一键安装命令
-
-1. 服务器选择使用干净的 centOS7 系统（不能自带任何第三方功能）
-2. 在命令行或服务商后台运行以下命令即可一键安装
-
-```bash
-curl -fsSL http://dsm.panda-studio.cn:8181/shell/nvpress-install.sh | bash -s
-```
-
-### 萌新一键升级命令
-
-在使用本页面提供的一键安装的基础上，可以使用下面的命令行一键升级nvPress本身（不含主题）
-
-```bash
-curl -fsSL http://dsm.panda-studio.cn:8181/shell/nvpress-update.sh | bash -s
-```
-
-其他关于一键安装、一键升级、使用HTTPS（SSL证书）等问题，请加上面的QQ群讨论。
-
 # Demo
 
 开发者个人博客：https://blog.panda-studio.cn
@@ -67,3 +42,6 @@ curl -fsSL http://dsm.panda-studio.cn:8181/shell/nvpress-update.sh | bash -s
 
 ![nvp3](https://github.com/nvPress/nvPress/assets/26618275/3abec987-ec9b-4c33-8423-3d188f460d70)
 
+# 二次开发、开发版、源代码、主题、其他资源下载：
+
+资源下载：https://dsm.panda-studio.cn:5001/sharing/La3x75Hcf
